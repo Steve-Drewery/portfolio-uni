@@ -166,6 +166,13 @@ export default function Home() {
                   JavaScript
                 </li>
                 <li>App development workout app with Angular and Ionic</li>
+                <div className={styles.writing}>
+                  This website portfolio was created with React, Sass, tailwind,
+                  GSAP and Framer Motion. The purpose of my portfolio is to show
+                  the skills I have learnt over the years of study and personal
+                  projects created throughout my learning experience which could
+                  be found appealing to hiring companies.
+                </div>
               </div>
               <div className={styles.caption}>Study</div>
             </div>
