@@ -12,8 +12,8 @@ export const Nav = () => {
       link: "projects",
     },
     {
-      name: "About",
-      link: "about",
+      name: "Education",
+      link: "education",
     },
 
     {

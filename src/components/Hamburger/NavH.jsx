@@ -16,8 +16,8 @@ const NavH = (props) => {
       link: "projects",
     },
     {
-      name: "About",
-      link: "about",
+      name: "Education",
+      link: "education",
     },
     {
       name: "Contact",

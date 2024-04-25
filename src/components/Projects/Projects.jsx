@@ -138,7 +138,7 @@ export default function Home() {
             })}
           </div>
         </motion.div>
-        <div className={styles.about}>
+        <div className={styles.about} id="education">
           <h3>Education</h3>
           <div className={styles.grid}>
             <div className={styles.card}>
