@@ -6,6 +6,24 @@ import gsap from "gsap";
 
 const projects = [
   {
+    title: "Westpac Hackthon",
+    src: "/Images/hackathon.webp",
+    color: "#000000",
+    icon: {
+      html: "/Images/html.svg",
+      css: "/Images/css.svg",
+      tailwind: "/Images/tailwind.svg",
+      unity: "/Images/unity.svg",
+      javascript: "/Images/js.svg",
+      python: "/Images/python.svg",
+      flask: "/Images/flask.svg",
+      xcode: "/Images/xcode.svg",
+      openai: "/Images/openai.svg",
+      c: "/Images/c.svg",
+    },
+    href: "https://www.youtube.com/watch?v=RRhx2AMymxg",
+  },
+  {
     title: "Portfolio",
     src: "/Images/portfolio-image.png",
     color: "#000000",
@@ -21,7 +39,7 @@ const projects = [
   {
     title: "Workout App",
     src: "/Images/workout-app.webp",
-    color: "#8C8C8C",
+    color: "#000000",
     icon: {
       html: "/Images/html.svg",
       css: "/Images/css.svg",
@@ -33,7 +51,7 @@ const projects = [
   {
     title: "Group Work",
     src: "/Images/group.webp",
-    color: "#EFE8D3",
+    color: "#000000",
     icon: {
       html: "/Images/html.svg",
       css: "/Images/css.svg",
